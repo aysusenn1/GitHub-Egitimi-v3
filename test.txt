@@ -5,3 +5,5 @@ Test Branch Line Added
 Test Branch Line Added2
 
 one more line 
+
+conflict behaviour
