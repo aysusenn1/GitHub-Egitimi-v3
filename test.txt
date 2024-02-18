@@ -6,4 +6,8 @@ Test Branch Line Added2
 
 one more line 
 
+<<<<<<< HEAD
 conflict behaviour
+=======
+conflict behaviour v2
+>>>>>>> origin/test
